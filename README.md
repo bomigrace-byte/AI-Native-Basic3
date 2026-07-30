@@ -44,20 +44,25 @@
 ### 5-3. 캡처
 
 1. 워크플로우 구성 화면
-   <img width="1117" height="627" alt="image" src="https://github.com/user-attachments/assets/7f2e8c90-72f6-40f0-a67c-97b146733210" />
+ 
+<img width="1117" height="627" alt="image" src="https://github.com/user-attachments/assets/7f2e8c90-72f6-40f0-a67c-97b146733210" />
 
 2. 실행 결과 화면
-   <img width="347" height="112" alt="image (1)" src="https://github.com/user-attachments/assets/8360346b-9021-4383-b757-ec03b157a48e" />
+
+<img width="347" height="112" alt="image (1)" src="https://github.com/user-attachments/assets/8360346b-9021-4383-b757-ec03b157a48e" />
    
 3. 조건분기 화면
+
 <img width="561" height="723" alt="image (7)" src="https://github.com/user-attachments/assets/5f39596f-07e2-4f91-a09d-add048cb67f6" />
 <img width="558" height="712" alt="image (8)" src="https://github.com/user-attachments/assets/c7e4ade2-bb69-4638-9f7a-d06cd1ca3333" />
 
 4. 액션 1 실행 결과
-   <img width="658" height="215" alt="image (2)" src="https://github.com/user-attachments/assets/98947413-66ac-4e48-bc41-4883dcb506a0" />
+
+<img width="658" height="215" alt="image (2)" src="https://github.com/user-attachments/assets/98947413-66ac-4e48-bc41-4883dcb506a0" />
 
 5. 액션 2 실행 결과
-  <img width="298" height="472" alt="image (3)" src="https://github.com/user-attachments/assets/b6d0ae26-f0ac-4755-a4d4-ce9bfb245dc7" />
+
+<img width="298" height="472" alt="image (3)" src="https://github.com/user-attachments/assets/b6d0ae26-f0ac-4755-a4d4-ce9bfb245dc7" />
 
 
 ### 5-4. 느낀 점
@@ -84,22 +89,28 @@
 ### 6-3. 캡처
 
 1. 워크플로우 구성 화면
-  <img width="968" height="123" alt="image (4)" src="https://github.com/user-attachments/assets/94354af9-b9e6-4281-a783-32ecbeb07904" />
+ 
+<img width="968" height="123" alt="image (4)" src="https://github.com/user-attachments/assets/94354af9-b9e6-4281-a783-32ecbeb07904" />
 
-  <img width="317" height="585" alt="image (5)" src="https://github.com/user-attachments/assets/ced86945-a87e-4b28-83e6-63cafbce6ae6" />
+<img width="317" height="585" alt="image (5)" src="https://github.com/user-attachments/assets/ced86945-a87e-4b28-83e6-63cafbce6ae6" />
 
 2. 실행 결과 화면
-  <img width="1132" height="209" alt="image (6)" src="https://github.com/user-attachments/assets/fd69e0c7-69c2-464f-85ee-838e15e14422" />
+
+<img width="1132" height="209" alt="image (6)" src="https://github.com/user-attachments/assets/fd69e0c7-69c2-464f-85ee-838e15e14422" />
 
 3. 조건분기 화면
-  <img width="487" height="240" alt="image (9)" src="https://github.com/user-attachments/assets/78b7ab2b-d5ef-4fb5-9c3a-5c26a25fc047" />
-  <img width="488" height="241" alt="image (10)" src="https://github.com/user-attachments/assets/e656bd45-22ae-48c3-b708-78e684b16939" />  
+
+<img width="487" height="240" alt="image (9)" src="https://github.com/user-attachments/assets/78b7ab2b-d5ef-4fb5-9c3a-5c26a25fc047" />
+
+<img width="488" height="241" alt="image (10)" src="https://github.com/user-attachments/assets/e656bd45-22ae-48c3-b708-78e684b16939" />  
 
 4. 액션 1 실행 결과
-   <img width="673" height="197" alt="image (11)" src="https://github.com/user-attachments/assets/a6555b04-e66c-4dd3-b0cd-23957acb8cdb" />
+ 
+<img width="673" height="197" alt="image (11)" src="https://github.com/user-attachments/assets/a6555b04-e66c-4dd3-b0cd-23957acb8cdb" />
 
 5. 액션 2 실행 결과
-  <img width="278" height="451" alt="image (12)" src="https://github.com/user-attachments/assets/d26bc3f5-086b-41e7-bce9-fdd103460dac" />
+
+<img width="278" height="451" alt="image (12)" src="https://github.com/user-attachments/assets/d26bc3f5-086b-41e7-bce9-fdd103460dac" />
 
 
 ### 6-4. 느낀 점
@@ -166,7 +177,7 @@
 3. Action 1: [Google Sheet]
 4. Action 2: [Discord]
 
-```text
+
 [Trigger] Github 이슈 발생
 ↓
 [조건 분기] Router
@@ -181,16 +192,20 @@
 
 ## 14. 프로젝트 2 구현 결과
 14-1. 캡처
-워크플로우 구성 화면
+-워크플로우 구성 화면
+
 <img width="1113" height="592" alt="image (13)" src="https://github.com/user-attachments/assets/641b9a83-b2d0-4265-bd3b-e3f3f97da0c0" />
 
-전체 실행 결과
+-전체 실행 결과
+
 <img width="419" height="80" alt="image" src="https://github.com/user-attachments/assets/a30ef79d-b85d-4fd4-ae32-4940499e9190" />
 
-분기 1 실행 결과
+-분기 1 실행 결과
+
 <img width="940" height="89" alt="image (14)" src="https://github.com/user-attachments/assets/cba9536c-28f1-47d9-b66a-22ce57818c5e" />
 
-분기 2 실행 결과
+-분기 2 실행 결과
+
 <img width="871" height="503" alt="image (15)" src="https://github.com/user-attachments/assets/f98fc675-bd09-486f-ad28-88e74b54f23c" />
 
 ---
@@ -199,6 +214,8 @@
 테스트 1: [PDF 파일 깃허브 업로드/라우터를 통해 기타 수정 루트로 실행/제목에 README로 써있어서 README 루트로 실행됨]
 테스트 2: [디스코드 날짜표기 형식/ 년월일시간 순서의 날짜 형식 /ISO 8601 날짜형식 ]
 테스트 3: [시나리오 실행/ 오류 없이 실행 / branch 아닌 main 저장으로 인식 못함]
+
+---
 
 ## 16. 문제점 및 개선
 발견한 문제: [15번 실제 결과]
@@ -209,6 +226,7 @@
 추가 개선점: [Discord 알림 형식 깔끔하게 반영]
 보안 점검
 
+---
 
 ## 17. 민감정보 처리
 API Key 노출 여부: [없음]
@@ -217,14 +235,20 @@ Webhook URL 노출 여부: [없음]
 이메일/전화번호/이름 처리: [해당 없음]
 캡처 이미지 민감정보 처리: [해당 없음]
 
+---
+
 ## 18. 배운 점
 [2개 프로젝트를 진행하며 MAKE 사용을 조금 더 익숙하게 할 수 있게 되었습니다.]
 [모듈을 배치하면서 여러가지 기능의 차이점을 알게 되었습니다.]
 [형식 변환 방법에 대해 공부하게 되었습니다.]
 
+---
+
 ## 19. 어려웠던 점
 [원하는 워크플로우 자동화를 위해 설계하는 과정 자체가 익숙지 않아 전체 흐름을 잡지 못하고 단계별로 수정하는 일이 많았습니다.]
 [Pull Request 개념을 잡지 못해 깃허브 연동 과정에서 많은 시간 소모를 하였습니다.]
+
+---
 
 ## 20. 최종 소감
 [여러 가지 프로젝트를 진행하면서 간단한 워크플로우 정도는 만들 수 있을 정도로 사용체계에 익숙해졌습니다.
